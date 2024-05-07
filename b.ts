@@ -1,0 +1,3 @@
+interface IA {
+    i: string;
+}
